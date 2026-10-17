@@ -102,15 +102,13 @@ ${recentPRs || '- No merged PRs found in the last search result.'}
 
 async function main() {
   const repos = await githubApi(`https://api.github.com/users/${user}/repos?sort=pushed&direction=desc&per_page=100`);
-  const repoList = Array.isArray(repos) ? repos : [];
-  const mergedPrs = await githubApi(
+  const search = await githubApi(
     `https://api.github.com/search/issues?q=${encodeURIComponent(`author:${user} is:pr is:merged sort:updated-desc`)}&per_page=10`
   );
 
-  const prs = Array.isArray(mergedPrs.items) ? mergedPrs.items : [];
-  const readme = buildReadme(repoList, prs);
+  const readme = buildReadme(Array.isArray(repos) ? repos : [], Array.isArray(search.items) ? search.items : []);
   fs.writeFileSync('README.md', readme);
-  console.log(`README updated for ${user} using ${repoList.length} repos and ${prs.length} merged PRs.`);
+  console.log(`README updated for ${user}.`);
 }
 
 main().catch((error) => {
