@@ -12,22 +12,22 @@ Security tooling and DevOps automation — TypeScript • Python
 
 ## 🔥 What I'm Building
 
-- [devops-generator](https://github.com/shahjahanctg/devops-generator) — DevOps generator for Docker, Kubernetes, CI/CD, infra, and security config.
-- [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — AI security and compliance web app.
-- [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform) — SOC platform and security operations tooling.
-- [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) — Python toolkit for cybersecurity workflows.
-- [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web) — phishing email analysis and triage interface.
+- [security-mcp-server-read-only](https://github.com/shahjahanctg/security-mcp-server-read-only) (Python)
+- [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — ai-security-compliance (TypeScript)
+- [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) (Python)
+- [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform) (TypeScript)
+- [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web) — phishing-email-analyzer-web (TypeScript)
 
 ## 🧠 Expertise (proven in code)
 
 - DevOps & platform generation
   - [devops-generator](https://github.com/shahjahanctg/devops-generator) — Docker, Kubernetes, Helm, Terraform/OpenTofu, Ansible, GitHub Actions, GitLab CI.
 - Security automation
-  - [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) — Python tooling for security workflows.
+  - [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) — Python tooling for cyber workflows.
   - [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform) — SOC-oriented platform code.
 - Security workflows & analysis UIs
-  - [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — compliance and governance web app.
-  - [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web) — analysis and triage web app.
+  - [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — security compliance and governance web app.
+  - [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web) — phishing analysis and triage interface.
 - Validation & release engineering
   - [devops-generator](https://github.com/shahjahanctg/devops-generator) — Playwright validation, deployment fixes, backups, health checks, and release work.
 
@@ -43,8 +43,8 @@ Security tooling and DevOps automation — TypeScript • Python
 
 ## 🌱 Open Source
 
-- Public work is concentrated in [devops-generator](https://github.com/shahjahanctg/devops-generator): 35 merged PRs and multiple release-focused phases covering CI/CD, infrastructure, security review, observability, and deployment.
-- Recent public repo activity also includes [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance), [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform), [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite), and [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web).
+- Recent merged PRs for shahjahanctg:
+- No merged PRs found in the last search result.
 
 ## 📈 Contribution Graph
 
