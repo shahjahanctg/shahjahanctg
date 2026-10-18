@@ -12,7 +12,7 @@ Security tooling and DevOps automation — TypeScript • Python
 
 ## 🔥 What I'm Building
 
-- [security-mcp-server-read-only](https://github.com/shahjahanctg/security-mcp-server-read-only) (Python)
+- [security-mcp-server-read-only](https://github.com/shahjahanctg/security-mcp-server-read-only) — A read-only, passive security investigation MCP server run local. (Python)
 - [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — ai-security-compliance (TypeScript)
 - [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) (Python)
 - [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform) (TypeScript)
