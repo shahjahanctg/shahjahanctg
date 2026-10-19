@@ -12,11 +12,11 @@ Security tooling and DevOps automation — TypeScript • Python
 
 ## 🔥 What I'm Building
 
+- [dnsvigil](https://github.com/shahjahanctg/dnsvigil) — SOC Tool for Daily Work (Go)
 - [security-mcp-server-read-only](https://github.com/shahjahanctg/security-mcp-server-read-only) — A read-only, passive security investigation MCP server run local. (Python)
 - [ai-security-compliance](https://github.com/shahjahanctg/ai-security-compliance) — ai-security-compliance (TypeScript)
 - [cybersecurity-toolkit-suite](https://github.com/shahjahanctg/cybersecurity-toolkit-suite) (Python)
 - [aegis-soc-platform](https://github.com/shahjahanctg/aegis-soc-platform) (TypeScript)
-- [phishing-email-analyzer-web](https://github.com/shahjahanctg/phishing-email-analyzer-web) — phishing-email-analyzer-web (TypeScript)
 
 ## 🧠 Expertise (proven in code)
 
